@@ -1,0 +1,1 @@
+export const tagLines = ["I'm confident in my abilities as a software developer in general and believe I can leverage my full stack abilities, quick thinking and creative hunger in a way that serves any group."]
